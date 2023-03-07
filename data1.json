@@ -1,5 +1,5 @@
 [{
-        "id": 1,
+        "id": "1",
         "chapter": 1,
         "isFavourite": true,
         "nameEng": "Good Morning",
@@ -26,7 +26,7 @@
 	"nameASL" : "https://github.com/eu2001/audiosDictionary.git/GoodmorningASL.gif"
     },
     {
-        "id": 2,
+        "id": "2",
         "chapter": 2,
         "isFavourite": true,
         "nameEng": "Airplane",
@@ -54,7 +54,7 @@
 
     },
     {
-        "id": 3,
+        "id": "3",
         "chapter": 3,
         "isFavourite": true,
         "nameEng": "Airport",
@@ -82,7 +82,7 @@
 
     },
     {
-        "id": 4,
+        "id": "4",
         "chapter": 4,
         "isFavourite": false,
         "nameEng": "Boarding",
@@ -109,7 +109,7 @@
 	"nameASL" : "https://github.com/eu2001/audiosDictionary.git/GoodmorningASL.gif"
     },
     {
-        "id": 5,
+        "id": "5",
         "chapter": 5,
         "isFavourite": false,
         "nameEng": "Overhead bin",

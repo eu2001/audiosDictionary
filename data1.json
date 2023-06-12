@@ -23,7 +23,7 @@
         "nameHeb": "בוקר טוב",
 	"translitHeb" : "bo-kar tov",
         "audioHeb": "https://github.com/eu2001/audiosDictionary.git/GoodmorningHEB.m4a",
-	"nameASL" : "https://github.com/eu2001/audiosDictionary.git/GoodmorningASL.gif"
+	"nameASL" : "https://eu2001.github.io/audiosDictionary/GoodmorningASL.gif"
     },
     {
         "id": "2",
@@ -50,7 +50,7 @@
         "nameHeb": "מטוס",
 	"translitHeb" : "bo-kar tov",
         "audioHeb": "https://github.com/eu2001/audiosDictionary.git/GoodmorningHEB.m4a",
-	"nameASL" : "https://github.com/eu2001/audiosDictionary.git/GoodmorningASL.gif"
+	"nameASL" : "https://eu2001.github.io/audiosDictionary/GoodmorningASL.gif"
 
     },
     {
@@ -78,7 +78,7 @@
         "nameHeb": "שדה תעופה",
         "translitHeb" : "bo-kar tov",
         "audioHeb": "https://github.com/eu2001/audiosDictionary.git/GoodmorningHEB.m4a",
-	"nameASL" : "https://github.com/eu2001/audiosDictionary.git/GoodmorningASL.gif"
+	"nameASL" : "https://eu2001.github.io/audiosDictionary/GoodmorningASL.gif"
 
     },
     {
@@ -106,7 +106,7 @@
         "nameHeb": "שלום",
      	"translitHeb" : "bo-kar tov",
         "audioHeb": "https://github.com/eu2001/audiosDictionary.git/GoodmorningHEB.m4a",
-	"nameASL" : "https://github.com/eu2001/audiosDictionary.git/GoodmorningASL.gif"
+	"nameASL" : "https://eu2001.github.io/audiosDictionary/GoodmorningASL.gif"
     },
     {
         "id": "5",
@@ -133,6 +133,6 @@
         "nameHeb": "שלום",
         "translitHeb" : "bo-kar tov",
         "audioHeb": "https://github.com/eu2001/audiosDictionary.git/GoodmorningHEB.m4a",
-	"nameASL" : "https://github.com/eu2001/audiosDictionary.git/GoodmorningASL.gif"
+	"nameASL" : "https://eu2001.github.io/audiosDictionary/GoodmorningASL.gif"
     }
 ]
